@@ -1,0 +1,43 @@
+# abcMob
+
+> abcMob is a mobile business application company founded in 2010 and headquartered in
+> Westminster, California (7655 Trask Ave, Westminster, CA 92683). It builds ready-made and
+> custom native business applications for banking, airlines, HRIS, insurance, restaurants,
+> hotels, tourism, universities, gyms, music, sport clubs, brokerage, oil and gas, real
+> estate, retail, agriculture, survey, TV and places of worship, writing one codebase that
+> is translated to native code per platform (Objective-C, Java, C) and compiled, with an
+> HTML5 view of the same service.
+
+<!--
+generated: 2026-09-05
+method: generated
+source: apis.yml + https://abcmob.com/ (home, products, about, contact) fetched 2026-09-05
+-->
+
+## Important for agents
+
+abcMob publishes **no public API**. As of 2026-09-05 there is no developer portal, no API
+reference, no OpenAPI/AsyncAPI/GraphQL/Postman artifact, no SDK on npm, PyPI, Maven Central,
+NuGet, RubyGems, crates.io or pkg.go.dev, no GitHub organization, no MCP server and no A2A
+agent card. Every contract-discovery path probed on abcmob.com and www.abcmob.com returned
+404. The company sells finished client/server applications and cloud hosting to businesses;
+integration is arranged through sales, not through a self-serve API.
+
+## Company
+
+- [abcMob home](https://abcmob.com/): Company overview and the cross-platform build approach.
+- [Products](https://abcmob.com/products.html): The catalog of vertical applications (abc Banking, abc Airlines, abc HRIS, abc Insurance, abc Restaurant, abc Hotel, abc Tourism, abc University, abc Gym, abc Music, abc Sport Club, abc Brokerage, abc Oil & Gas, abc Real Estate, abc Retail, abc Agriculture, abc Survey, abc TV, abc Place Of Worship).
+- [About](https://abcmob.com/about.html): Company background.
+- [Contact](https://abcmob.com/contact.html): Sales contact form, +1 (657) 214-1590, sales at abcmob dot com. The only route to an integration conversation.
+
+## Elsewhere
+
+- [LinkedIn](https://www.linkedin.com/company/abcmob)
+- [X / Twitter](https://twitter.com/abc_mob)
+- [YouTube](https://www.youtube.com/user/abcmobapp)
+- [SlideShare](https://www.slideshare.net/abcMob/)
+
+## API Evangelist profile artifacts
+
+- [Domain security probe](security/abcmob-domain-security.yml): TLS 1.3, no HSTS, no DNSSEC, no CAA, SPF present, no DMARC record (probed 2026-09-05).
+- [Well-known probe](well-known/abcmob-well-known.yml): all seven named /.well-known/ paths return 404 on both hosts.
